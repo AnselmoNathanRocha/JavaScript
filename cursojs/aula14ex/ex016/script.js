@@ -8,7 +8,7 @@ function contar() {
             res.innerHTML = 'Digite todos os dados acima!'
     } else {
         res.innerHTML = 'Contando: '
-        let i = Number(ini.value)
+        let i = Number(inicio.value)
         let f = Number(fim.value)
         let p = Number(passo.value)
 

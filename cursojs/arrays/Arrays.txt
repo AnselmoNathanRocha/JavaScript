@@ -1,0 +1,10 @@
+Array
+
+let num = [5, 8, 4]
+num[3] = 6
+num.push(7) => ACESSA A ÚLTIMA POSIÇÃO DO ARRAY
+num.length => COMPRIMENTO DO ARRAY
+num.sort() => COLOCA OS ELEMENTOS EM ORDEM CRESCENTE
+num.indexOf() => RETORNA A POSIÇÃO DO NÚMERO INDICADO ENTRE PARÊNTESES 
+
+[5, 8, 4, 6, 7]
